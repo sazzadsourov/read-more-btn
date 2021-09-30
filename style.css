@@ -1,0 +1,48 @@
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+.lead {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.container {
+  margin: 70px auto;
+  max-width: 800px;
+}
+
+.buttonToogle {
+  margin-top: 20px;
+}
+
+.content {
+  width: 700px;
+  margin: 0 auto;
+}
+
+a.showMore {
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: white;
+  text-decoration: none;
+  background-color: #222222;
+  padding: 10px 20px;
+  width: 100px;
+  text-align: center;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+.box_item .box_items {
+  display: inline-block;
+  margin: 20px 20px;
+  padding: 40px 80px;
+  background-color: #222;
+  color: #fff;
+  border-radius: 5px;
+}
+
+h4 {
+  margin: 0px 0px 4px 0px;
+}
